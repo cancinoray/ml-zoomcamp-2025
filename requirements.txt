@@ -1,0 +1,40 @@
+# pip install -r requirements.txt
+
+# Core
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter
+notebook
+jupyterlab
+ipykernel
+
+# Machine Learning / Model Serving
+xgboost
+lightgbm
+tensorflow
+torch
+fastapi
+uvicorn
+gunicorn
+
+# Model Serialization
+joblib
+pickle-mixin
+
+# Deployment / APIs
+flask
+requests
+
+# Experiment Tracking / Utilities
+mlflow
+pydantic
+
+# Optional but useful
+tqdm
+pyyaml
